@@ -1,5 +1,6 @@
 # Antipatrones de Diseño
-https://github.com/lorenadamc/antipatrones/blob/master/Imagenes/1.png
+![alt text](https://github.com/lorenadamc/antipatrones/blob/master/Imagenes/1.png)
+![alt text](https://github.com/lorenadamc/antipatrones/blob/master/Imagenes/2.png)
 
 
 ## Autores ✒️
